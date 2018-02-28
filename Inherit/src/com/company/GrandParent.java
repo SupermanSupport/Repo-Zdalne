@@ -8,7 +8,7 @@ public class GrandParent {
     }
 
     public void run() {
-        System.out.println("GrandParent run.zasuwa");
+        System.out.println("GrandParent run.zasuwa ");
     }
 
     public void eat() { // NOTE: never called unless called directly on the GrandParent instance
