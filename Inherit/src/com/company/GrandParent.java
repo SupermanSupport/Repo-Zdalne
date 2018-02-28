@@ -4,7 +4,7 @@ package com.company;
 public class GrandParent {
 
     public void walk() {
-        System.out.println("GrandParent walk.idzie");
+        System.out.println("GrandParent walk.idzie jako");
     }
 
     public void run() {
